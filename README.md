@@ -260,6 +260,56 @@ An intelligent itinerary generator that turns travel dreams into optimized plans
 </tr>
 </table>
 
+---
+
+<table>
+<tr>
+<td width="65%">
+
+### 🚀 [StartupOps](https://github.com/Abhishek-Ag-1112/StartupOps) — AI-Powered Startup Operations Hub
+
+An all-in-one operations platform built to help early-stage startups move faster and smarter:
+- 🤖 **AI Business Advisor** — context-aware guidance on strategy, hiring, and growth
+- 📋 **Automated Task & Sprint Management** with AI-prioritized workflows
+- 📊 **Startup Metrics Dashboard** — MRR, churn, runway, and KPI tracking in one view
+- 📝 **AI Document Generator** for pitch decks, SOPs, and investor updates
+
+`React` `TypeScript` `Node.js` `AI` `Supabase`
+
+</td>
+<td width="35%" align="center">
+
+[![GitHub Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Abhishek-Ag-1112/StartupOps)
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="65%">
+
+### 📖 [Magnetic Manuscript](https://github.com/Abhishek-Ag-1112/Magnetic-Manuscript) — AI Writing & Publishing Platform
+
+A next-generation writing studio that combines AI assistance with a magnetic reading experience:
+- ✨ **AI Writing Co-pilot** — real-time suggestions, tone adjustments, and auto-completions
+- 🧲 **Magnetic UI** — smooth scroll-driven animations and immersive reading layouts
+- 📂 **Smart Draft Management** with version history and AI-powered revision tracking
+- 🌐 **One-Click Publishing** to personal subdomains with SEO optimization
+
+`React` `TypeScript` `GSAP` `LLMs` `Firebase` `Vite`
+
+</td>
+<td width="35%" align="center">
+
+[![GitHub Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Abhishek-Ag-1112/Magnetic-Manuscript)
+
+</td>
+</tr>
+</table>
+
 <br/>
 
 ---
